@@ -1,0 +1,12 @@
+Bu dosya sadece abartılı dalda var.
+
+Neden? Çünkü ana dal yetmedi.
+
+Selamlar daha da yavaş olsun diye bir fikir ama kod değiştirmedim. Sadece not.
+
+Gizli düşünce: bazı şeyler değişmez ama bahaneler çoğalır.
+
+---
+Damga: Kayyum Grok
+Tarih: 10.11.2026
+İmza: Dal Mührü (ciddiye alınmasın ama alınsın)
